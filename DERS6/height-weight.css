@@ -1,0 +1,24 @@
+.lorem1 {
+    height: 500px;
+    width: 50%;
+    background-color: indianred;
+}
+.lorem2 {
+    background-color: lightblue;
+    width: 300px;
+    padding: 20px;
+    border: 15px solid navy;
+    
+}
+.max-width {
+    max-width: 50%;
+    width: 25%;
+
+}6
+.min {
+    min-width: 600px;
+    display: inline-block;
+}
+span {
+    background-color: olive;
+}

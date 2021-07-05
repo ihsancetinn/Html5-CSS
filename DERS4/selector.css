@@ -1,0 +1,12 @@
+/*div p {
+    color:red
+}*/
+/*.container div p {
+    color:blue
+}*/
+p + div {
+    color:pink
+}
+div +p {
+    color:aqua
+}

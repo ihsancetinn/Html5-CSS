@@ -1,0 +1,22 @@
+#baslik1{
+    background-color: aqua;
+    margin-bottom: 0px;
+
+}
+div{
+    background-color: rgba(255, 10, 50, 0.4);
+padding: 25px;
+}
+
+#par1{
+    background-color: darkgoldenrod;
+    border: 20px solid red;
+    width: 300px;
+    margin-bottom: auto;
+    padding: 5px;
+
+}
+#baslik3{
+    background-color: lawngreen;
+    margin-top: 80px;
+}

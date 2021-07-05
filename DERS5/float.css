@@ -1,0 +1,7 @@
+div {
+    border: 3px solid black;
+}
+img{
+    float: right;
+    background-image: url("https://picsum.photos/id/684/600/400");
+}
